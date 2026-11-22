@@ -522,9 +522,12 @@ Administrative dashboard.
 
 14. Author
 
-Umar Musisi
+BD Adv Group 3 Sept 2026
 
-Backend Developer
+1. Umar Musisi
+2. Momodu Unique Rekiya
+
+Backend Developers
 
 Technologies: Node.js | Express.js | MongoDB | REST APIs
 
